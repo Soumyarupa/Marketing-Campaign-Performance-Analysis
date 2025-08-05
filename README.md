@@ -24,10 +24,9 @@ This project evaluates the effectiveness of marketing campaigns based on custome
 - marketing_campaign-analysis.pbix – Power BI dashboard file
 
 - ##  Access
-- 🔗 Power BI File: [https://drive.google.com/file/d/19dFUxy3imYbhMcUa0G1wWgRPXdjrEYQg/view?usp=drive_link]
-- 🔗 Jupyter Notebook: [https://drive.google.com/file/d/1QGEAQyQtTtVJ_nAiZtgt9XKW2Zj5WrFv/view?usp=drive_link]
-- 🔗 Excel Raw Data :[https://docs.google.com/spreadsheets/d/1k94QvHUcqPW46YOb7V_X50J4tXki8lWz/edit?usp=drive_link&ouid=112408725632443961555&rtpof=true&sd=true] 
-
+- 🔗 Power BI File: https://drive.google.com/file/d/19dFUxy3imYbhMcUa0G1wWgRPXdjrEYQg/view?usp=drive_link
+- 🔗 Jupyter Notebook: https://drive.google.com/file/d/1QGEAQyQtTtVJ_nAiZtgt9XKW2Zj5WrFv/view?usp=drive_link
+- 🔗 Excel Raw Data : https://docs.google.com/spreadsheets/d/1k94QvHUcqPW46YOb7V_X50J4tXki8lWz/edit?usp=drive_link&ouid=112408725632443961555&rtpof=true&sd=true
 - ## Conclusion
 - This project provides a clear understanding of which customer groups are most engaged, enabling targeted future campaigns. Data cleaning in Python and visuals in Power BI ensured clarity and impact.
 
